@@ -16,6 +16,10 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program 
+![Screenshot 2025-05-17 212629](https://github.com/user-attachments/assets/62d37e44-e650-491b-a9c4-457254e1c2f8)
+
 ## OUTPUT
+![Screenshot 2025-05-17 212643](https://github.com/user-attachments/assets/7be0817d-c17c-44d0-90a3-3b20eccacaf8)
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
